@@ -7,9 +7,9 @@ Front end developer and designer
 I am from Iceland but moved to England to pursue my studies in graphic design at an art university with a scholarship. After a year I realized I wanted to work more with web design (UI/UX, web development, coding) than print-related graphic design. I moved to Norway with my boyfriend and started studying front-end development at Noroff online. My goal is to be able to work in the development and web design industry.
 
 * 🌍  I'm based in Norway, Nordland
-* 🖥️  See my portfolio at [Behance graphic design portfolio (2023)](http://www.behance.net/gallery/168975071/Ina-S-Graphic-design-Portfolio)
+* 🖥️  See my portfolio at [Behance graphic design portfolio (2023)](https://www.behance.net/gallery/168975071/Ina-S-Graphic-design-Portfolio)
 * ✉️  You can contact me at [inasigurborg19@gmail.com](mailto:inasigurborg19@gmail.com)
-* 🚀  I'm currently working on [My semester project for school](http://inastefansdottir.github.io/Semester-project-1/)
+* 🚀  I'm currently working on [Edu-gate as a QA Engineer (group project)](https://github.com/NoroffFEU/edu-gate)
 * 🧠  I'm learning Front-end development at Noroff
 * ⚡  I love gaming, baking, art and have a huge passion for design
 
