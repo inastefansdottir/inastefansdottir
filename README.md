@@ -9,7 +9,7 @@ I am from Iceland but moved to England to pursue my studies in graphic design at
 * 🌍  I'm based in Norway, Nordland
 * 🖥️  See my portfolio at [Behance graphic design portfolio (2023)](https://www.behance.net/gallery/168975071/Ina-S-Graphic-design-Portfolio)
 * ✉️  You can contact me at [inasigurborg19@gmail.com](mailto:inasigurborg19@gmail.com)
-* 🚀  I'm currently working on [Edu-gate as a QA Engineer (group project)](https://github.com/NoroffFEU/edu-gate)
+* 🚀  I'm currently working on [my final exam, a baking blog website (Wiskful Thinking)](https://github.com/NoroffFEU/FED1-PE1-inastefansdottir)
 * 🧠  I'm learning Front-end development at Noroff
 * ⚡  I love gaming, baking, art and have a huge passion for design
 
