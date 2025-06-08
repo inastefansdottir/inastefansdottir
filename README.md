@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ína S Stefánsdóttir
 ===========================================================================================================================================
 
-Front end developer and designer
+Front-end developer and designer
 --------------------------------
 
-I am from Iceland but moved to England to pursue my studies in graphic design at an art university with a scholarship. After a year I realized I wanted to work more with web design (UI/UX, web development, coding) than print-related graphic design. I moved to Norway with my boyfriend and started studying front-end development at Noroff online. My goal is to be able to work in the development and web design industry.
+I am from Iceland but moved to England to pursue my studies in graphic design at an art university with a scholarship. After a year, I realized I wanted to work more with web design (UI/UX, web development, coding) than print-related graphic design. I moved to Norway with my boyfriend and started studying front-end development at Noroff online. My goal is to work in the development and web design industry.
 
 * 🌍  I'm based in Norway, Nordland
 * 🖥️  See my portfolio at [Behance graphic design portfolio (2023)](https://www.behance.net/gallery/168975071/Ina-S-Graphic-design-Portfolio)
 * ✉️  You can contact me at [inasigurborg19@gmail.com](mailto:inasigurborg19@gmail.com)
-* 🚀  I'm currently working on [my final exam, a baking blog website (Wiskful Thinking)](https://github.com/NoroffFEU/FED1-PE1-inastefansdottir)
+* 🚀  I'm currently working on [my one-page portfolio (final assignment of the school year)](https://github.com/inastefansdottir/POR1-InaS)
 * 🧠  I'm learning Front-end development at Noroff
-* ⚡  I love gaming, baking, art and have a huge passion for design
+* ⚡  I love gaming, baking, art, and have a huge passion for design
 
 ### Skills
 
