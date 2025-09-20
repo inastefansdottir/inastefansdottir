@@ -9,7 +9,7 @@ I am from Iceland but moved to England to pursue my studies in graphic design at
 * 🌍  I'm based in Norway, Nordland
 * 🖥️  See my portfolio at [Behance graphic design portfolio (2023)](https://www.behance.net/gallery/168975071/Ina-S-Graphic-design-Portfolio)
 * ✉️  You can contact me at [inasigurborg19@gmail.com](mailto:inasigurborg19@gmail.com)
-* 🚀  I'm currently working on [my one-page portfolio (final assignment of the school year)](https://github.com/inastefansdottir/POR1-InaS)
+* 🚀  I'm currently working on [my JavaScript 2 course assignment (Petify a social media app for pets)](https://github.com/inastefansdottir/JavaScript-2-CA-InaS)
 * 🧠  I'm learning Front-end development at Noroff
 * ⚡  I love gaming, baking, art, and have a huge passion for design
 
